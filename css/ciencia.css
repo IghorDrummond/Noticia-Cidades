@@ -105,8 +105,7 @@ body#ciencia #cabecalho #topo #cienciapage>a
 	margin-left: 25px;	
 }
 #container_titulo{
-	margin-left: 25px;	
-	width: 380px;
+	width: 100%;
 	background: #294c71;
 	color: #fff;
 	margin-bottom: 15px;
@@ -174,11 +173,7 @@ body#ciencia #cabecalho #topo #cienciapage>a
 		margin-top: 25px;
 		width: 100%;
 	}
-	#container_titulo{
-		margin-top: 5px;
-		margin-left: 10px;		
-		width: 220px;
-	}
+
 	/* Conteudo Primario */
 	#cont_primario{
 		width: 100%;
@@ -241,11 +236,7 @@ body#ciencia #cabecalho #topo #cienciapage>a
 		margin-top: 25px;
 		width: 100%;
 	}
-	#container_titulo{
-		margin-top: 5px;
-		margin-left: 10px;
-		width: 220px;
-	}	
+
 	/* Conteudo Primario */
 	#cont_primario{
 		width: 100%;
@@ -308,11 +299,6 @@ body#ciencia #cabecalho #topo #cienciapage>a
 		margin-top: 25px;
 		width: 100%;
 	}
-	#container_titulo{
-		margin-top: 5px;
-		margin-left: 10px;
-		width: 280px;
-	}	
 	/* Conteudo Primario */
 	#cont_primario{
 		width: 60%;
@@ -373,11 +359,6 @@ body#ciencia #cabecalho #topo #cienciapage>a
 		padding: 0;
 		margin-top: 25px;
 		width: 100%;
-	}
-	#container_titulo{
-		margin-top: 5px;
-		margin-left: 10px;
-		width: 280px;
 	}	
 	/* Conteudo Primario */
 	#cont_primario{
@@ -441,11 +422,6 @@ body#ciencia #cabecalho #topo #cienciapage>a
 		margin-top: 25px;
 		width: 100%;
 	}
-	#container_titulo{
-		margin-top: 5px;
-		margin-left: 10px;
-		width: 280px;
-	}	
 	/* Conteudo Primario */
 	#cont_primario{
 		width: 60%;
